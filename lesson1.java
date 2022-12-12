@@ -1,9 +1,8 @@
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 
-public class lesson1 {
+public class Lesson1 {
     public static void main(String[] args) {
         writerFile();
     }
